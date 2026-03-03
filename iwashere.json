@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/Murchoid/iwashere/releases/download/v0.2.0/iwashere_0.2.0_windows_386.zip",
+            "bin": [
+                "iwashere.exe"
+            ],
+            "hash": "8efb1f11e227ec423b481ef9e12bcc1e96ab0fdd74e42b05aa31599e45560a4c"
+        },
+        "64bit": {
+            "url": "https://github.com/Murchoid/iwashere/releases/download/v0.2.0/iwashere_0.2.0_windows_amd64.zip",
+            "bin": [
+                "iwashere.exe"
+            ],
+            "hash": "9b1847c53d1fd32190d940c75dcf74001f03e1cdf009da2bbb1fe024aa794450"
+        },
+        "arm64": {
+            "url": "https://github.com/Murchoid/iwashere/releases/download/v0.2.0/iwashere_0.2.0_windows_arm64.zip",
+            "bin": [
+                "iwashere.exe"
+            ],
+            "hash": "c2b0a787f8bc0a3e9bcf594f2e433ef66674ca155b623aa866950fb01b880ac8"
+        }
+    },
+    "homepage": "https://github.com/Murchoid/iwashere",
+    "license": "MIT",
+    "description": "Context preservation tool for developers"
+}
