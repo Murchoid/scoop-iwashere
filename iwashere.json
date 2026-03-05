@@ -1,26 +1,26 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.2.5/iwashere_0.2.5_windows_386.zip",
+            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.2.6/iwashere_0.2.6_windows_386.zip",
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "bdf81d6631733b440d3e670626dbf775a0e1f3de9aa21e24a04310b705090419"
+            "hash": "0df0b58f3de7c6523fa63980f545814fa2fec08c9fac6f89eb5e494681608f11"
         },
         "64bit": {
-            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.2.5/iwashere_0.2.5_windows_amd64.zip",
+            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.2.6/iwashere_0.2.6_windows_amd64.zip",
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "902158f25bf716e447b2183e625a5e3f4cbc4051aeb9a8d504e15d44d79d4372"
+            "hash": "7f0ba917ec21e40c3f1f4b3f511fc931b25f954432d1068e9f75eb991c1af69f"
         },
         "arm64": {
-            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.2.5/iwashere_0.2.5_windows_arm64.zip",
+            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.2.6/iwashere_0.2.6_windows_arm64.zip",
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "2ca4a93fca28296df6021c7ade252d45c23d207a323e0983ee01318ac2544255"
+            "hash": "a32ba11e3990b466408c2b59b55b00c3186f4b58491c278421d386cfd3a5609a"
         }
     },
     "homepage": "https://github.com/Murchoid/iwashere",
