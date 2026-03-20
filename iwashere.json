@@ -1,26 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
-        "32bit": {
-            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.3.0/iwashere_0.3.0_windows_386.zip",
-            "bin": [
-                "iwashere.exe"
-            ],
-            "hash": "e6967a84f230039380783951f90c53d3a31798934bde385cd1cf1cdf599c3c88"
-        },
         "64bit": {
-            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.3.0/iwashere_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.3.1/iwashere_0.3.1_windows_amd64.zip",
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "592130ab0a9eb559ec072be0cb6ed450e7cc5caddc48058761610ffd6669726d"
+            "hash": "02d60d18bb3fbba739004905da126daca359f3f07b5d106f3559adc2c7323080"
         },
         "arm64": {
-            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.3.0/iwashere_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.3.1/iwashere_0.3.1_windows_arm64.zip",
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "52791fd106829ca331fa390dd499df0f5e1c114e4d32b9d3d130da6fe23438ff"
+            "hash": "3058fc9b2c2bd39e108cafebedb1a26bcf0a0253cfb2b1271a6ea46939190b3e"
         }
     },
     "homepage": "https://github.com/Murchoid/iwashere",
