@@ -6,14 +6,14 @@
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "6a42f43e3c616d51ceaf6715793301ca162039fc898e01df06e658b904a21471"
+            "hash": "cef405e9a3899481e53c3b260e3aee85d018a8507dfedf2c6b08ca15a960a32a"
         },
         "arm64": {
             "url": "https://github.com/Murchoid/iwashere/releases/tag/v0.3.3/iwashere_0.3.3_windows_arm64.zip",
             "bin": [
                 "iwashere.exe"
             ],
-            "hash": "15edac0cdf5b5fcb02917104c46751917a07ca09c25c840bb85fd7dccb59465f"
+            "hash": "5e67cc818aa68cd7d87897e304268e1750b4e45224faefe945494fcbd9a95d05"
         }
     },
     "homepage": "https://github.com/Murchoid/iwashere",
